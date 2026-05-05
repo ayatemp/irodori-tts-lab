@@ -1,5 +1,8 @@
 # Irodori-TTS
 
+> This repository is a local lab copy for VoiceDesign notebook experiments.
+> Original GitHub repository: <https://github.com/Aratako/Irodori-TTS>
+
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow)](https://huggingface.co/Aratako/Irodori-TTS-500M-v2)
 [![VoiceDesign](https://img.shields.io/badge/VoiceDesign-HuggingFace-orange)](https://huggingface.co/Aratako/Irodori-TTS-500M-v2-VoiceDesign)
 [![Demo](https://img.shields.io/badge/Demo-HuggingFace%20Space-blue)](https://huggingface.co/spaces/Aratako/Irodori-TTS-500M-v2-Demo)
